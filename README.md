@@ -1,6 +1,6 @@
 # Flock Chat, change notification sound
 
-
+This script is only educational, having no intention of harming the company that owns the rights on the application. Made just for fun
 
 # Requirements
 
