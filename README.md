@@ -1,7 +1,6 @@
 # Flock Chat, change notification sound
 
-Inline-style:
-![alt text](https://image4.owler.com/logo/flock_owler_20170318_060528_original.png "Logo Title Text 1")
+![alt text](https://image4.owler.com/logo/flock_owler_20170318_060528_original.png "flock logo")
 
 This script is only educational, having no intention of harming the company that owns the rights on the application. Made just for fun
 
