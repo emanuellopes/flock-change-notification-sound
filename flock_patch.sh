@@ -15,11 +15,15 @@ SOUND=$1 # first argument of bash script
 
 if [ ! -d "$DIRECTORY_ASAR" ]; then
   echo -e "${RED}Resources Folder not exist in flock exiting..."
+  echo -e "${GREEN}How to using!"
+  echo -e "${GREEN}./flock-patch.sh ~/Downloads/sound.wav"
   exit
 fi
 
 if [ ! -f "$SOUND" ]; then
   echo -e "${RED}Song directory is incorrect, exiting..."
+  echo -e "${GREEN}How to using!"
+  echo -e "${GREEN}./flock-patch.sh ~/Downloads/sound.wav"
   exit
 fi
 
